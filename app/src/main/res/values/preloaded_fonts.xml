@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/alegreya_sc_bold</item>
+        <item>@font/cagliostro</item>
+        <item>@font/cantarell_bold</item>
+        <item>@font/chewy</item>
+        <item>@font/pacifico</item>
+        <item>@font/prompt_medium</item>
+        <item>@font/ramabhadra</item>
+        <item>@font/ramaraja</item>
+    </array>
+</resources>
